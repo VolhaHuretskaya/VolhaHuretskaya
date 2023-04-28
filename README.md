@@ -22,7 +22,7 @@
 
 - [Checklists](https://github.com/VolhaHuretskaya/Checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/VolhaHuretskaya/Test-Suites-and-Test-Cases.git)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Bug-Reports](https://github.com/VolhaHuretskaya/Bug-Reports.git)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
